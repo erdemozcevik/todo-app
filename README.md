@@ -1,16 +1,26 @@
-# React + Vite
+# ToDo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React ve Tailwind CSS kullanılarak geliştirilmiş basit ve şık bir yapılacaklar listesi uygulamasıdır.
 
-Currently, two official plugins are available:
+## Ekran Görüntüsü
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+![ToDo App Screenshot](./src/assets/ToDo.png)
 
-## React Compiler
+## Özellikler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Yeni görev ekleme
+- Görev tamamlama
+- Görev silme
+- Tamamlanan görevleri çizili gösterme
+- Temiz ve responsive arayüz
 
-## Expanding the ESLint configuration
+## Kullanılan Teknolojiler
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Tailwind CSS
+- Vite
+
+## Kurulum
+
+```bash
+npm install
