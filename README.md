@@ -6,7 +6,7 @@ React, Tailwind CSS ve Local Storage kullanılarak geliştirilmiştir. Kullanıc
 
 ## Ekran Görüntüsü
 
-![ToDo App Screenshot](./src/assets/ToDogit.png)
+[![ToDo App Screenshot](./src/assets/ToDo.png)](./src/assets/ToDo.png)
 
 ## Özellikler
 
